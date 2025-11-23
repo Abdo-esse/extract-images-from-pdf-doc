@@ -5,7 +5,7 @@ import pdfplumber
 import re
 
 # --- Configurations ---
-PDF_FILE = "./output/RCA Liste Catégorie.pdf"
+PDF_FILE = "./RCA Liste Catégorie.pdf"
 IMG_DIR = "photos_joueurs"
 CSV_FILE = "joueurs_clean.csv"
 
